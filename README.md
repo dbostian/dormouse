@@ -9,6 +9,8 @@
 
 A 3d-printable 40% keyboard, for the handwiring mechanical keyboard crowd. It fits on a larger (250mm wide) print bed without having to split the shell or plate.
 
+[Keyboard Layout Editor Permalink](http://www.keyboard-layout-editor.com/##@@_y:1.95&x:3.5&c=%23cfcfcf%3B&=Q&_x:8.6%3B&=P%3B&@_y:-0.9500000000000002&x:2.5%3B&=Esc&_x:10.625%3B&=Bksp%3B&@_y:-0.04999999999999982&x:3.5%3B&=A%3B&@_y:-0.9500000000000002&x:2.5%3B&=Tab%3B&@_y:-0.04999999999999982&x:3.75%3B&=Z%3B&@_y:-0.9500000000000002&x:2.5&w:1.25%3B&=Shift&_x:10.38%3B&=Shift%3B&@_ry:1.75&y:2.25&x:13.13%3B&=%3E%0A.%3B&@_ry:2.75&y:0.25&x:13.63&w:1.5%3B&=Enter%3B&@_r:3&rx:3.5&ry:1.25&y:3.75&w:1.25%3B&=Ctrl%3B&@_r:6&rx:0.5&y:1.25&x:4.25%3B&=S%3B&@_ry:2.25&y:-0.75&x:4%3B&=W%3B&@_rx:2&ry:1.25&y:3.5&x:3&w:1.25%3B&=Alt%3B&@_rx:2.5&ry:3&y:0.75&x:2.45%3B&=X%3B&@_r:12&rx:0.5&ry:2.25&y:-1.25&x:5%3B&=E&=R&=T%3B&@_x:5.25%3B&=D&=F&=G%3B&@_x:5.7%3B&=C&=V&=B%3B&@_x:5.95&a:7&w:2.25%3B&=&_a:4%3B&=%0ANav%3B&@_r:-12&rx:15.75&ry:10.75&y:-9.25&x:-5%3B&=Y&=U&=I%3B&@_x:-4.75%3B&=H&=J&=K%3B&@_ry:11&y:-7.5&x:-5.25%3B&=%0AFn&=N&=M%3B&@_x:-5.25&w:2.25%3B&=%0ASymbol%3B&@_r:-6&rx:1.5&ry:1.75&y:4.5&x:9.63&w:1.25%3B&=%0ANum%3B&@_rx:15.5&ry:9.25&y:-7.5&x:-2.75%3B&=O%3B&@_ry:10.75&y:-8&x:-2.25%3B&=L%3B&@_rx:15.75&ry:10.5&y:-6.75&x:-3%3B&=%3C%0A,%3B&@_r:-3&rx:4.5&ry:1.25&y:4.25&x:8.13&w:1.25%3B&=Super)
+
 ## Project Structure
 /stls - STL files for 3d Printing
 
