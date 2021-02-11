@@ -7,7 +7,7 @@
 
 ![example](https://i.imgur.com/2MG0JTf.jpg)
 
-A 3d-printable bent 40% keyboard, for the handwiring mechanical keyboard crowd. It fits on a larger (250mm wide) print bed without having to split the shell or plate.
+A 3d-printable 40% keyboard, for the handwiring mechanical keyboard crowd. It fits on a larger (250mm wide) print bed without having to split the shell or plate.
 
 ## Project Structure
 /stls - STL files for 3d Printing
