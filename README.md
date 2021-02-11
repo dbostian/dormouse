@@ -25,7 +25,7 @@ default.hex - Compiled firmware, for flashing.
 To access other keys like numbers, the F row, the arrows, you need to hold down a modifier key to access various layers. The layers I user are Nav (arrow keys, page up, home, end etc.), Num (1-10, +, -, =), Symbol (!, @, %, #, etc.) and Fn (F1-F12, Print Screen).
 
 ![example](https://i.imgur.com/0ASaVXF.jpg)
-The Nav layer gets used quite often, and the key is easy to hit, so it also houses some of the missing keys (quotes, semicolon, slashes) that were removed from the right hand side of the board. It also switches the Escape key into the tilde.
+The Nav layer turns WASD into the arrow cluster, and also houses the other navigation keys. This key is easy to hit with the left thumb, so it is also used for some of the keys that that were removed from the right side of the board (quotes, semicolon, slashes). It also turns escape into the tilde.
 
 ![example](https://i.imgur.com/mCcn9r4.jpg)
 The Num layer simply houses the numbers, along with the = and - keys.
