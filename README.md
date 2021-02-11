@@ -24,8 +24,6 @@ default.hex - Compiled firmware, for flashing.
 ![example](https://i.imgur.com/hLFlkfl.jpg)
 To access other keys like numbers, the F row, the arrows, you need to hold down a modifier key to access various layers. The layers I user are Nav (arrow keys, page up, home, end etc.), Num (1-10, +, -, =), Symbol (!, @, %, #, etc.) and Fn (F1-F12, Print Screen).
 
-The Symbol layer key doubles as a second space bar. Tap it for a space, hold it down and it lets you type symbols like & and ^. Without this layer, you have to hold the Num layer key and a shift key to type those characters.
-
 ![example](https://i.imgur.com/0ASaVXF.jpg)
 The Nav layer gets used quite often, and the key is easy to hit, so it also houses some of the missing keys (quotes, semicolon, slashes) that were removed from the right hand side of the board. It also switches the Escape key into the tilde.
 
@@ -33,7 +31,7 @@ The Nav layer gets used quite often, and the key is easy to hit, so it also hous
 The Num layer simply houses the numbers, along with the = and - keys.
 
 ![example](https://i.imgur.com/slC50W2.jpg)
-The Symbol layer is like the number layer plus shift, so you don't have to create a 3-key combo for those characters. The modifier key for this layer is also the right space bar. Tap for space, hold it for the symbol layer.
+The Symbol layer is like the number layer plus shift, so you don't have to create a 3-key combo for those characters. The Symbol layer key doubles as a second space bar. Tap it for a space, hold it down to switch layers.
 
 ![example](https://i.imgur.com/14wZbSj.jpg)
 The Fn layer gives access to F1-F12, plus some lesser-used keys, like caps lock and print screen. I've also placed the RGB controls on this layer, along with the all-important RESET key for flashing new firmware.
