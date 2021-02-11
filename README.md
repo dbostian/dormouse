@@ -1,9 +1,13 @@
 # Dormouse
-## Alix/Prime-E Inspired 40% Mechanical Keyboard
+## An Alix/Prime-E Inspired 40% Mechanical Keyboard
 
 ![example](https://i.imgur.com/YC7o2Mk.jpg)
 
-A 3d-printable bent 40% keyboard, for the handwiring crowd. It fits on a larger (250mm wide) print bed without having to split the shell or plate.
+![example](https://i.imgur.com/3EftSge.jpg)
+
+![example](https://i.imgur.com/2MG0JTf.jpg)
+
+A 3d-printable bent 40% keyboard, for the handwiring mechanical keyboard crowd. It fits on a larger (250mm wide) print bed without having to split the shell or plate.
 
 ## Project Structure
 /stls - STL files for 3d Printing
