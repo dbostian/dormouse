@@ -78,7 +78,7 @@ Rows are wired to pins F4, F5, F6, and F7. Columns are wired to B1, B3, B2, B6, 
 
 
 ### Assembly
-Tap appropriate holes in the shell and mcu tray to M3. Insert all switches into plate. Align the MCU tray with Q key/hole in the shell, and stick the Pro Micro down with VHB. Solder rows and columns according to the excellent ![QMK Hand Wiring Guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire). Arrange wires neatly, and attach the  mcu and then plate to shell with M3x8mm countersunk screws - use caution to not overtighten and strip the threads. Install keycaps.
+Tap appropriate holes in the shell and mcu tray to M3. Insert all switches into plate. Align the MCU tray with Q key/hole in the shell, and stick the Pro Micro down with VHB. Solder rows and columns according to the excellent [QMK Hand Wiring Guide](https://beta.docs.qmk.fm/using-qmk/guides/keyboard-building/hand_wire). Arrange wires neatly, and attach the  mcu and then plate to shell with M3x8mm countersunk screws - use caution to not overtighten and strip the threads. Install keycaps.
 
 
 ### Firmware
