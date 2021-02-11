@@ -35,8 +35,8 @@ The Num layer simply houses the numbers, along with the = and - keys.
 ![example](https://i.imgur.com/slC50W2.jpg)
 The Symbol layer is like the number layer plus shift, so you don't have to create a 3-key combo for those characters. The modifier key for this layer is also the right space bar. Tap for space, hold it for the symbol layer.
 
-![example](https://i.imgur.com/8jIaR7L.jpg)
-The Fn layer gives access to F1-F12, plus some lesser-used keys, like caps lock and print screen. I've also placed the RGB controls on this layer.
+![example](https://i.imgur.com/14wZbSj.jpg)
+The Fn layer gives access to F1-F12, plus some lesser-used keys, like caps lock and print screen. I've also placed the RGB controls on this layer, along with the all-important RESET key for flashing new firmware.
 
 ## Construction
 
