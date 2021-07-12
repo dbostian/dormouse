@@ -38,6 +38,14 @@ The Symbol layer is like the number layer plus shift, so you don't have to creat
 ![example](https://i.imgur.com/14wZbSj.jpg)
 The Fn layer gives access to F1-F12, plus some lesser-used keys, like caps lock and print screen. I've also placed the RGB controls on this layer, along with the all-important RESET key for flashing new firmware.
 
+## Mouse Keys (Alternate Layout)
+
+![example](https://i.imgur.com/cuhW6ad.jpg)
+**Update:** I've added a second keymap with Mouse Keys layer for use in an upcoming project. This is achieved using Mod Tap on the left spacebar, similar to the Symbol layer. Tap for space, hold for mouse. WASD is mouse movement, J/K is left/right click, and Y/H is the scroll wheel. I realize this is not for everyone's taste, so there's a separate firmware (**mouse.hex**) containing this keymap. I picked button locations that seemed natural for me, but if you would like to customize the mouse buttons, the new **/mouse/keymap.c** layout is included in the **qmk** folder... along with the **config.h** for governing mouse behavior (acceleration, max speed, etc).
+
+[https://beta.docs.qmk.fm/using-qmk/advanced-keycodes/feature_mouse_keys](https://beta.docs.qmk.fm/using-qmk/advanced-keycodes/feature_mouse_keys)
+
+
 ## Construction
 
 ### Printed Parts
